@@ -1,4 +1,4 @@
-# AGC
+
 
 # ACS - Auto Commit Streak
 
